@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrazyCaCl2
+- 👋 Hi, I’m @CrazyAuF3
 - 👀 I’m interested in Python, C, C++, Java
 - 👀 Also interested in game developing, SDL, pygame
 - 👀 Also interested in chemical experiments and physics.
