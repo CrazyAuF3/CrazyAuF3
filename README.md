@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CrazyAuF3
-- 👀 I’m interested in Python, C, C++, Java
-- 👀 Also interested in game developing, SDL, pygame
-- 👀 Also interested in chemical experiments and physics.
-- 🌱 I’m currently learning SDL.
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me ???
+- Strongly willing to explore nature and technology
+- Dedicated to physics and music
+- Efficiency is a temporary matter, elegance is a lifelong matter
+- To be a rock and not to roll
+- With every mistake we must surely be learning
+- Long live liberty and democracy! 
 
 <!---
 - Woah that's good
