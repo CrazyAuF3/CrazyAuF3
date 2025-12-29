@@ -1,9 +1,4 @@
-- Strongly willing to explore nature and technology
-- Dedicated to physics and music
-- Efficiency is a temporary matter, elegance is a lifelong matter
-- To be a rock and not to roll
-- With every mistake we must surely be learning
-- Long live liberty and democracy! 
+- Learning & Doing Projects in C
 
 <!---
 - Woah that's good
